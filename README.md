@@ -15,4 +15,4 @@ Use this link to download terraform https://developer.hashicorp.com/terraform/in
    * terraform plan
    * teraform apply
   
-                                                                       Thank you ........................
+                                                                     
